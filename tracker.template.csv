@@ -1,0 +1,2 @@
+date,company,role,posting_url,platform,account_email,password_manager_ref,variant_sent,jd_match,listing_fitness,est_salary_month,floor_verdict,status,stuck_questions,next_action,notes
+2026-01-15,Acme Corp,Finance Manager,https://example.com/jobs/123,Greenhouse,jane.doe@example.com,pm:acme-greenhouse,Leadership ATS,74%,86,"5500-6500 EUR gross",above,parked-stuck,"Visa sponsorship needed? Notice period in weeks?",ask user then finish application,recruiter viewed profile 01-16

@@ -1,0 +1,10 @@
+# Never commit personal CV files or generated reports.
+*.pdf
+*.docx
+*.doc
+ats_report.json
+FACTS.md
+tracker.csv
+tracker.xlsx
+postings/
+__pycache__/
